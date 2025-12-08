@@ -27,10 +27,8 @@ public:
 };
 
 int main() {
-    int n;
-    cout << "Enter the value of n: ";
-    cin >> n;
-
+    // 
+    
     SolutionSTL obj;
     int ans = obj.countPrimes(n);
 
